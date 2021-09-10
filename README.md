@@ -23,7 +23,7 @@ pimpinan sidang berdasarkan tiga kriteria utama yakni `Pendidikan`. , `Lama Beke
 # Instalasi
 Untuk mengunduh aplikasi silahkan clone menggunakan git dengan perintah dibawah
 ```
-git clone https://github.com/Nofrisdan/Plugin-Keranjang-Belanja.git
+git clone https://github.com/Nofrisdan/aplikasi_spk_pimpinan_sidang.git
 ```
 
 :warning: **Silahkan Menghubungi Saya jika mengalami masalah dalam proses instalasi dan jalannya aplikasi**:
